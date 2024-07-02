@@ -1,12 +1,12 @@
 # CSE4020
 Computer Graphics (2023)
 ## project1 : Basic OpenGL viewer
-A. Manipulate the camera with mouse movement
+1. Manipulate the camera with mouse movement
 ## project2 : Obj viewer & drawing a ierarchical model
-A. Manipulate the camera in the same way as in Project1 using your Project1 code
-B. Single mesh rendering mode
-C. Animating hierarchical model rendering mode
-D. Lighting & Etc
+1. Manipulate the camera in the same way as in Project1 using your Project1 code
+2. Single mesh rendering mode
+3. Animating hierarchical model rendering mode
+4. Lighting & Etc
 ## project3 : Bvh Viewer
-A. Manipulate the camera in the same way as in Project1 using your Project1 code
-B. Load a bvh file and render it
+1. Manipulate the camera in the same way as in Project1 using your Project1 code
+2. Load a bvh file and render it
